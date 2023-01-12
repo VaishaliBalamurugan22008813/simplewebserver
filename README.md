@@ -27,8 +27,10 @@ Serving the HTML pages.
 Testing the webserver
 
 # PROGRAM:
+![img_1.png](img_1.png)
 
 # OUTPUT:
+![img.png](img.png)
 
 # RESULT:
 
