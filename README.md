@@ -27,7 +27,7 @@ Serving the HTML pages.
 Testing the webserver
 
 # PROGRAM:
-![img_1.png](img_1.png)
+![Program](https://github.com/VaishaliBalamurugan22008813/simplewebserver/blob/main/img_1.png?raw=true)
 
 # OUTPUT:
 ![img.png](img.png)
